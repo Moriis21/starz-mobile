@@ -1,0 +1,278 @@
+{
+  "student_handbook": {
+    "title": "Student Handbook - BIT Semester I 2023",
+    "total_pages": 45,
+    "chapters": {
+      "University History": {
+        "page": 2,
+        "content": "\n                Starz University was established in the U.S.A. 2007 and incorporated in Monrovia July of 2009; with the objectives of addressing the IT needs of Liberia and being the best in IT Education, Networking, and Software development.\n\n                Starz also provides IT services for schools, businesses, and customers throughout Liberia.\n\n                The mission of Starz is to provide effective capacity building services, thus, enhancing business efficiencies, schools productivities, and community services in Liberia.\n\n                The University is a Certified International Microsoft IT Academy in Liberia, and a registered partner of Cisco and IBM.\n\n                Starz operates as a tertiary and a technical technology skills development institution. It also offers Certification examinations through the Pearson-VUE Testing Center.\n                "
+      },
+      "About Programs": {
+        "page": 3,
+        "content": "\n                STARZ UNIVERSITY PROGRAMS\n\n                Bachelor of Information Technology (BIT)\n                - 4-year degree program\n                - Focus on software development, networking, and system administration\n                - Industry-relevant curriculum with hands-on training\n\n                Telecommunications Engineering\n                - Specialized program in telecommunications technology\n                - Covers wireless communications, fiber optics, and network infrastructure\n                - Partnership with leading telecom companies\n\n                Management Information Systems (MIS)\n                - Business-focused IT program\n                - Combines management principles with information technology\n                - Prepares students for IT leadership roles\n\n                Communications Technology\n                - Digital media and communications program\n                - Covers multimedia production, web design, and digital marketing\n                - State-of-the-art media production facilities\n\n                Database Administration\n                - Specialized program in database management\n                - Covers Oracle, MySQL, SQL Server, and NoSQL databases\n                - High demand in the job market\n                "
+      },
+      "Chairman's Message": {
+        "page": 4,
+        "content": "\n                CHAIRMAN'S MESSAGE\n\n                Welcome to Starz University!\n\n                As Chairman of the Board of Trustees, I am delighted to welcome you to our prestigious institution. Starz University has been at the forefront of technology education in Liberia since our establishment.\n\n                Our commitment to excellence in education, combined with our focus on practical skills development, ensures that our graduates are well-prepared for the challenges of the modern workplace.\n\n                We believe that technology is the key to Liberia's development, and our students are the future leaders who will drive this transformation.\n\n                I encourage you to take full advantage of the opportunities available at Starz University. Work hard, stay focused, and remember that your success is our success.\n\n                Best wishes for your academic journey.\n\n                Dr. Emmanuel Starz\n                Chairman, Board of Trustees\n                Starz University\n                "
+      },
+      "The Procedure in Registration": {
+        "page": 5,
+        "content": "\n                REGISTRATION PROCEDURES\n\n                New Student Registration:\n                1. Complete application form\n                2. Submit required documents:\n                   - High school diploma or equivalent\n                   - Official transcripts\n                   - Two passport-size photographs\n                   - Copy of national identification\n                3. Pay application fee: $25 USD\n                4. Attend orientation session\n                5. Meet with academic advisor\n                6. Register for courses\n                7. Pay tuition and fees\n\n                Continuing Student Registration:\n                1. Meet with academic advisor\n                2. Clear any outstanding balances\n                3. Register for courses online or in person\n                4. Pay tuition and fees by deadline\n                5. Confirm registration status\n\n                Registration Deadlines:\n                - Fall Semester: August 15\n                - Spring Semester: January 15\n                - Summer Session: May 15\n\n                Late Registration:\n                Late registration is permitted with a $50 late fee during the first week of classes.\n                "
+      },
+      "Academic Rules and Regulations Governing Students": {
+        "page": 6,
+        "content": "\n                ACADEMIC RULES AND REGULATIONS\n\n                Academic Standards:\n                - Minimum GPA requirement: 2.0\n                - Maximum course load: 18 credit hours per semester\n                - Minimum course load for full-time status: 12 credit hours\n\n                Attendance Policy:\n                - Students must attend at least 75% of all classes\n                - Excessive absences may result in course failure\n                - Tardiness is discouraged and may affect grades\n\n                Academic Probation:\n                - Students with GPA below 2.0 are placed on probation\n                - Probationary students must meet with academic advisor\n                - Failure to improve may result in suspension\n\n                Academic Integrity:\n                - Plagiarism and cheating are strictly prohibited\n                - Violations result in course failure and disciplinary action\n                - All work must be original unless otherwise specified\n\n                Grade Appeals:\n                - Students may appeal grades within 30 days\n                - Appeals must be submitted in writing with supporting evidence\n                - Final decision rests with Academic Affairs Committee\n                "
+      },
+      "Definition of Credit Hours & Grading System": {
+        "page": 7,
+        "content": "\n                CREDIT HOURS AND GRADING SYSTEM\n\n                Credit Hour Definition:\n                One credit hour represents one hour of classroom instruction per week for a 15-week semester, plus two hours of out-of-class work.\n\n                Grading Scale:\n                A = 90-100 (4.0 grade points) - Excellent\n                B = 80-89 (3.0 grade points) - Good\n                C = 70-79 (2.0 grade points) - Satisfactory\n                D = 60-69 (1.0 grade points) - Poor\n                F = Below 60 (0.0 grade points) - Failure\n\n                Special Grades:\n                I = Incomplete (temporary grade)\n                W = Withdrawal\n                AU = Audit (no credit)\n                P = Pass (credit/no credit courses)\n\n                GPA Calculation:\n                Grade Point Average = Total Grade Points \u00f7 Total Credit Hours Attempted\n\n                Dean's List:\n                Students with 3.5 GPA or higher are eligible for Dean's List recognition.\n                "
+      },
+      "Graduation Requirements": {
+        "page": 8,
+        "content": "\n                GRADUATION REQUIREMENTS\n\n                Bachelor's Degree Requirements:\n                - Completion of 128 credit hours minimum\n                - Cumulative GPA of 2.0 or higher\n                - Completion of all major requirements\n                - Completion of general education requirements\n                - Final semester in residence at Starz University\n\n                General Education Requirements (42 credit hours):\n                - English Composition: 6 credit hours\n                - Mathematics: 6 credit hours\n                - Natural Sciences: 6 credit hours\n                - Social Sciences: 6 credit hours\n                - Humanities: 6 credit hours\n                - Foreign Language: 6 credit hours\n                - Physical Education: 2 credit hours\n                - Freshman Orientation: 1 credit hour\n                - Electives: 3 credit hours\n\n                Application for Graduation:\n                - Submit application by March 1 for May graduation\n                - Submit application by October 1 for December graduation\n                - Pay graduation fee: $100 USD\n                - Complete exit interview with academic advisor\n\n                Commencement Ceremony:\n                - Held twice yearly (May and December)\n                - Attendance is encouraged but not mandatory\n                - Graduates receive diploma and transcript\n                "
+      },
+      "The Office of Student Affairs": {
+        "page": 9,
+        "content": "\n                OFFICE OF STUDENT AFFAIRS\n\n                Mission:\n                The Office of Student Affairs is committed to supporting student success through comprehensive services and programs that enhance the educational experience.\n\n                Services Provided:\n                - Academic advising and counseling\n                - Career guidance and job placement assistance\n                - Student activities and organizations\n                - Health and wellness programs\n                - Financial aid assistance\n                - Housing information and referrals\n                - International student services\n\n                Student Organizations:\n                - Student Government Association\n                - IT Club\n                - Drama and Cultural Society\n                - Sports and Recreation Club\n                - Community Service Club\n                - Professional Development Society\n\n                Office Hours:\n                Monday - Friday: 8:00 AM - 5:00 PM\n                Saturday: 9:00 AM - 2:00 PM\n                Sunday: Closed\n\n                Contact Information:\n                Phone: (+231) 886-248-210\n                Email: studentaffairs@starzit.com\n                Location: Administration Building, Room 201\n                "
+      },
+      "Financial Requirements": {
+        "page": 10,
+        "content": "\n                FINANCIAL REQUIREMENTS\n\n                Tuition and Fees (Per Semester):\n                - Tuition: $800 USD\n                - Technology Fee: $50 USD\n                - Library Fee: $25 USD\n                - Student Activity Fee: $25 USD\n                - Health Service Fee: $15 USD\n                - Total: $915 USD per semester\n\n                Payment Options:\n                1. Full payment at registration (5% discount)\n                2. Two installments (50% at registration, 50% at midterm)\n                3. Monthly payment plan (additional $25 processing fee)\n\n                Financial Aid:\n                - Merit-based scholarships available\n                - Need-based financial assistance\n                - Work-study programs\n                - Payment plans for qualified students\n\n                Refund Policy:\n                - 100% refund before classes begin\n                - 75% refund during first week\n                - 50% refund during second week\n                - 25% refund during third week\n                - No refund after third week\n\n                Late Payment:\n                - $25 late fee for payments received after due date\n                - Registration may be cancelled for non-payment\n                - Transcripts withheld until all balances are paid\n                "
+      },
+      "Rules Governing Student Behavior": {
+        "page": 11,
+        "content": "\n                STUDENT BEHAVIOR RULES\n\n                Code of Conduct:\n                All students are expected to conduct themselves in a manner that reflects positively on Starz University and contributes to a positive learning environment.\n\n                Prohibited Behaviors:\n                - Academic dishonesty (cheating, plagiarism)\n                - Disruptive behavior in class or on campus\n                - Harassment or discrimination\n                - Possession or use of illegal substances\n                - Theft or vandalism of university property\n                - Violation of computer and internet usage policies\n\n                Disciplinary Procedures:\n                1. Investigation of alleged violation\n                2. Meeting with Student Affairs Officer\n                3. Disciplinary hearing if necessary\n                4. Imposition of sanctions if violation is confirmed\n                5. Appeal process available\n\n                Possible Sanctions:\n                - Warning or reprimand\n                - Community service\n                - Probation\n                - Suspension\n                - Expulsion\n\n                Student Rights:\n                - Right to due process\n                - Right to appeal disciplinary decisions\n                - Right to representation during hearings\n                - Right to confidentiality of records\n                "
+      },
+      "Grievance Procedures": {
+        "page": 12,
+        "content": "\n                GRIEVANCE PROCEDURES\n\n                Purpose:\n                To provide a fair and orderly process for resolving student complaints and grievances.\n\n                Types of Grievances:\n                - Academic matters (grades, course content)\n                - Administrative decisions\n                - Faculty or staff conduct\n                - Discrimination or harassment\n                - Financial matters\n\n                Informal Resolution:\n                Students are encouraged to first attempt informal resolution by:\n                1. Discussing the matter directly with the person involved\n                2. Consulting with department head or supervisor\n                3. Seeking assistance from Student Affairs Office\n\n                Formal Grievance Process:\n                1. Submit written grievance within 30 days of incident\n                2. Include all relevant documentation and evidence\n                3. Grievance committee reviews and investigates\n                4. Hearing scheduled within 15 days\n                5. Decision rendered within 10 days of hearing\n                6. Appeal to President within 10 days if desired\n\n                Grievance Committee:\n                - Two faculty members\n                - One administrator\n                - One student representative\n                - One community member\n\n                Contact:\n                Submit grievances to: grievances@starzit.com\n                "
+      },
+      "Change of Grades": {
+        "page": 13,
+        "content": "\n                CHANGE OF GRADES\n\n                Policy:\n                Grades are considered final once submitted by faculty. Changes are permitted only under specific circumstances.\n\n                Acceptable Reasons for Grade Changes:\n                - Computational or clerical error\n                - Failure to include completed assignment\n                - Misapplication of stated grading criteria\n                - Technical error in grade recording system\n\n                Unacceptable Reasons:\n                - Student dissatisfaction with grade\n                - Instructor's change of mind about grading standards\n                - Student's need for higher grade for graduation or other purposes\n\n                Procedure:\n                1. Faculty member submits Grade Change Form\n                2. Provide detailed explanation for change\n                3. Attach supporting documentation\n                4. Department head approval required\n                5. Academic Affairs approval for grades older than one semester\n                6. Registrar updates official record\n\n                Time Limits:\n                - Current semester: No time limit\n                - Previous semester: Within one year\n                - Older grades: Exceptional circumstances only\n\n                Documentation:\n                All grade changes are permanently documented in student's academic file.\n                "
+      },
+      "Starz ODE": {
+        "page": 14,
+        "content": "\n                STARZ UNIVERSITY ODE\n\n                (To be sung at official university functions)\n\n                Verse 1:\n                Starz University, our beacon bright,\n                Leading us forward with knowledge and light,\n                Technology's promise, education's call,\n                Building tomorrow for one and for all.\n\n                Chorus:\n                Starz, our Starz, shining so true,\n                Gold and black colors, we honor you,\n                Excellence, integrity, service we bring,\n                Starz University, our voices we sing.\n\n                Verse 2:\n                From Monrovia's heart to the world we reach,\n                Innovation and wisdom we strive to teach,\n                Students and faculty, united we stand,\n                Serving our nation, our beloved homeland.\n\n                (Repeat Chorus)\n\n                Bridge:\n                Through challenges faced and victories won,\n                Our Starz will shine like the morning sun,\n                Forever we'll cherish the lessons we've learned,\n                The knowledge and friendships we've truly earned.\n\n                (Final Chorus)\n                Starz, our Starz, forever we'll be,\n                Proud of our heritage, strong and free,\n                Technology is our passion, education our life,\n                Starz University, through joy and through strife.\n                "
+      },
+      "Course Guide - Information Technology": {
+        "page": 15,
+        "content": "\n                COURSE GUIDE - INFORMATION TECHNOLOGY\n\n                This section contains detailed course information for all IT programs offered at Starz University. Students should refer to this guide for course descriptions, prerequisites, and program requirements.\n\n                Programs Covered:\n                1. Bachelor of Information Technology (BIT)\n                2. Telecommunications Engineering (TELECOM)\n                3. Management Information Systems (MIS)\n                4. Communications Technology (COMM)\n                5. Database Administration (DATABASE)\n\n                Each program includes:\n                - 4-year curriculum (8 semesters)\n                - Course codes and titles\n                - Credit hour requirements\n                - Prerequisites and co-requisites\n                - Course descriptions\n                - Program learning outcomes\n\n                For detailed course information, please refer to the Course Guides section of this handbook or visit the Academic Affairs office.\n\n                Academic Advisor Contact:\n                Dr. Sarah Johnson\n                Phone: (+231) 886-248-210 ext. 205\n                Email: advisor@starzit.com\n                Office: Academic Building, Room 105\n                "
+      },
+      "Course Guide - Telecommunications Engineering": {
+        "page": 20,
+        "content": "\n                TELECOMMUNICATIONS ENGINEERING PROGRAM\n\n                Program Overview:\n                The Telecommunications Engineering program prepares students for careers in the rapidly evolving telecommunications industry. Students learn about wireless communications, fiber optic systems, network infrastructure, and emerging technologies.\n\n                Program Objectives:\n                - Develop technical expertise in telecommunications systems\n                - Understand network design and implementation\n                - Master wireless and fiber optic technologies\n                - Prepare for industry certifications\n                - Develop project management skills\n\n                Career Opportunities:\n                - Telecommunications Engineer\n                - Network Design Engineer\n                - RF Engineer\n                - Systems Integration Specialist\n                - Project Manager\n                - Technical Consultant\n\n                Industry Partnerships:\n                - Lonestar Cell MTN\n                - Orange Liberia\n                - Libtelco\n                - LPRC (Liberia Petroleum Refining Company)\n                - Ministry of Posts and Telecommunications\n\n                Laboratory Facilities:\n                - RF and Microwave Lab\n                - Fiber Optic Testing Lab\n                - Network Simulation Lab\n                - Antenna Testing Range\n                - Digital Communications Lab\n                "
+      },
+      "Course Guide - Management Information Systems": {
+        "page": 25,
+        "content": "\n                MANAGEMENT INFORMATION SYSTEMS PROGRAM\n\n                Program Overview:\n                The MIS program combines business management principles with information technology to prepare students for leadership roles in IT management and business analysis.\n\n                Core Competencies:\n                - Business process analysis and improvement\n                - Database design and management\n                - Enterprise systems implementation\n                - IT project management\n                - Business intelligence and analytics\n                - Strategic IT planning\n\n                Curriculum Highlights:\n                - Business fundamentals (accounting, finance, marketing)\n                - Information systems development\n                - Database management systems\n                - Enterprise resource planning (ERP)\n                - Business intelligence tools\n                - IT governance and ethics\n\n                Internship Requirements:\n                All MIS students must complete a 3-credit internship with an approved organization during their final year.\n\n                Professional Certifications:\n                Students are prepared for industry certifications including:\n                - CompTIA Project+\n                - Microsoft Certified Solutions Associate (MCSA)\n                - Oracle Database Administrator\n                - SAP Business One\n                "
+      },
+      "Course Guide - Communications": {
+        "page": 30,
+        "content": "\n                COMMUNICATIONS TECHNOLOGY PROGRAM\n\n                Program Overview:\n                The Communications Technology program focuses on digital media production, web development, and multimedia communications in the digital age.\n\n                Specialization Areas:\n                - Digital Media Production\n                - Web Design and Development\n                - Graphic Design and Animation\n                - Video Production and Editing\n                - Social Media Marketing\n                - Corporate Communications\n\n                Studio Facilities:\n                - Digital Media Production Studio\n                - Video Production Suite\n                - Audio Recording Studio\n                - Computer Graphics Lab\n                - Web Development Lab\n                - Photography Studio\n\n                Industry Software:\n                - Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro)\n                - Final Cut Pro\n                - Autodesk Maya\n                - WordPress and Content Management Systems\n                - Social Media Management Tools\n\n                Student Projects:\n                - University website maintenance\n                - Marketing materials for local businesses\n                - Documentary film production\n                - Social media campaigns\n                - Corporate training videos\n                "
+      },
+      "Personal Information": {
+        "page": 35,
+        "content": "\n                PERSONAL INFORMATION SECTION\n\n                This section is for students to record their personal and academic information for quick reference.\n\n                Student Information:\n                Name: _________________________________\n                Student ID: ____________________________\n                Program: ______________________________\n                Year of Entry: __________________________\n                Expected Graduation: ____________________\n\n                Contact Information:\n                Address: ______________________________\n                ____________________________________\n                Phone: _______________________________\n                Email: _______________________________\n\n                Emergency Contact:\n                Name: _______________________________\n                Relationship: ___________________________\n                Phone: ______________________________\n\n                Academic Advisor:\n                Name: _______________________________\n                Office: ______________________________\n                Phone: ______________________________\n                Email: ______________________________\n\n                Important Dates:\n                Registration Deadline: ____________________\n                Tuition Due Date: _______________________\n                Final Exams: ___________________________\n                Graduation Application Due: ________________\n                "
+      }
+    }
+  },
+  "employee_handbook": {
+    "title": "Staff Handbook - Approved Version 2024",
+    "total_pages": 19,
+    "chapters": {
+      "Statement of Purpose": {
+        "page": 2,
+        "content": "The Starz University Faculty Handbook consolidates the University's key policies regarding faculty and academic matters, alongside information on facilities and organizational structure. Additional resources, such as the Administration and Finance Guide to Services, the Student Handbook, and various university and departmental policies, also provide valuable information on University procedures. While print copies of the Handbook are available for convenience, users should refer to the online version for the most up-to-date information: www.starzit.com. The policies outlined in this handbook are not intended to create a contract or constitute contractual obligations of any kind between Starz University and its employees. Although we strive for accuracy, the actual text of the policy, procedure, or law should be consulted as the definitive source of information. We welcome corrections or changes, which can be submitted to the Office of the Vice President for Administration and the Board Chairperson/Provost. Questions regarding academic policies may be directed to the Vice President for Academic Affairs\u2019 office and the Board Chairperson. Questions regarding other policies should be addressed to the office cited at the end of the relevant policy section."
+      },
+      "Message from the Board Chairperson": {
+        "page": 3,
+        "content": "We are pleased to provide you with the Starz University Staff Handbook. This handbook is intended to serve as both a guide and a reference source. If you have any questions, I encourage you to speak with your supervisor or contact the Administration Office. The strength and resilience of the Starz University community are directly linked to the dedication of its most valuable resource: the faculty and staff. Each of you plays a crucial role in the teaching and learning mission of this institution, and it is a privilege to work alongside you in this important endeavor. Sincerely, Amb. Latim Dathong, MBA Board Chairperson"
+      },
+      "Introduction": {
+        "page": 4,
+        "content": "This staff handbook is designed to provide Starz University employees with information about working conditions, benefits, and certain employment policies. It is your responsibility to read, understand, and comply with all provisions of this handbook. No handbook can anticipate every circumstance or question regarding University policy. Therefore, the University reserves the right to amend, supplement, interpret, rescind, or deviate from any policies or portions of this handbook at its sole discretion. This handbook supersedes and revokes all prior statements of policy, whether verbal or written. If the handbook does not address an issue of interest or if you are uncertain about something after reading the relevant policy, please ask your supervisor or contact the Vice President for Administration or the Board Chairperson."
+      },
+      "Nature of Employment": {
+        "page": 5,
+        "content": "Employment at Starz University is voluntary. Employees can be categorized as Full-time, Part-time, Student Intern, or Volunteer. Part-time employees can resign with or without cause, provided they give 30 days' notice to avoid legal penalties. Full-time employees must adhere to the terms of their contract or any arrangements they have with the University, which also requires a 30-day notice to avoid legal penalties. Similarly, the University may terminate the employment relationship at any time, with or without cause, and with or without notice."
+      },
+      "Starz University History": {
+        "page": 5,
+        "content": "Starz University was established in the United States in 2007 and incorporated in Monrovia in July 2009 with the objective of addressing Liberia's Information Technology (IT) education needs and becoming the best in the field. Our IT Education Training Center launched in March 2010, and we aim to maintain our status as the largest IT Education Training Institute in Liberia, with over 2,000 students enrolled in both short- and long-term programs. Our services benefit major banks, NGOs, government entities, and individuals, making Starz the most trusted name in IT and Business education, consultancy, and management in Liberia."
+      },
+      "Starz University Mission Statement": {
+        "page": 6,
+        "content": "Starz University is a leading institution for quality education in Liberia, offering comprehensive education, professional training, and business solutions. We are equipped with a wide range of educational programs and IT solutions that cater to various market segments, from commercial organizations with specific training needs to individuals seeking IT education and other skills. As a university dedicated to Science, Technology, and various career disciplines, Starz is committed to providing an education that broadens minds and develops individuals capable of navigating a changing society."
+      },
+      "Equal Opportunity Employer": {
+        "page": 6,
+        "content": "Starz University is dedicated to providing equal educational opportunities and access to facilities for all qualified individuals. The University does not discriminate in employment, educational programs, or activities based on age, color, creed, disability, gender identity, genetic information, national origin, race, religion, sex, sexual orientation, or any other legally protected status. We are committed to maintaining a campus environment free from discrimination and harassment, and we will not tolerate any form of illegal discrimination or harassment. Employees who believe they have been unlawfully discriminated against should contact their supervisor or the VP of Administration."
+      },
+      "Guidelines for Diversity in Employment": {
+        "page": 6,
+        "content": "Starz University is committed to recruiting and retaining a diverse workforce. Our guidelines include comprehensive employment searches, diversity training, and assessment of recruitment and retention efforts to enhance intercultural understanding through both curricular and co-curricular programs."
+      },
+      "Employee Classification, Work Schedule, Attendance and Pay": {
+        "page": 7,
+        "content": "Full-Time Equivalent (FTE) All employees are assigned an FTE based on their annual work hours, which determines benefit eligibility, holiday and vacation time, and leave programs. Full-Time Employees Full-time employees are scheduled to work 40 hours per week for at least 12 months. Part-Time Employees (Including Student Interns and Volunteers) Part-time employees work fewer than 40 hours per week. To receive a full month's salary, part-time employees must work at least 15 calendar days or more than half of the month. This policy ensures fair compensation for part-time staff based on their contribution."
+      },
+      "Orientation Period": {
+        "page": 8,
+        "content": "New employees undergo a 30-day orientation period. During this time, supervisors provide necessary training and guidance to help employees meet expectations. A written performance review is typically conducted at the end of the orientation period."
+      },
+      "Hours of Work": {
+        "page": 8,
+        "content": "The standard workweek for full-time employees is 40 hours. Specific work schedules will be determined by department needs and communicated by supervisors. Flexible work arrangements may be available upon approval."
+      },
+      "Regular Attendance and Punctuality": {
+        "page": 9,
+        "content": "Regular and punctual attendance is a fundamental requirement for all employees. Employees are expected to be at their workstations and ready to begin work at their scheduled start time. Absences and tardiness must be reported to the immediate supervisor as soon as possible, preferably before the start of the workday."
+      },
+      "Pay periods and Pay deductions": {
+        "page": 10,
+        "content": "Employees are paid on a bi-weekly basis. Pay periods end every other Friday, and paychecks are distributed on the following Wednesday. Deductions for taxes, benefits, and other authorized items will be made from each paycheck. Employees can view their pay stubs and deduction details through the employee e-portal."
+      },
+      "Performance and Salary Review": {
+        "page": 10,
+        "content": "Performance reviews are conducted annually to assess employee performance, provide feedback, and identify areas for development. Salary adjustments are typically considered during the annual review process, based on individual performance, market conditions, and university budget."
+      },
+      "Resignation and Termination": {
+        "page": 11,
+        "content": "Employees who wish to resign are requested to provide at least two weeks' written notice to their supervisor and Human Resources. The university reserves the right to terminate employment at any time, with or without cause, in accordance with applicable laws and university policies."
+      },
+      "Reinstatement/Re-employment": {
+        "page": 11,
+        "content": "Former employees who wish to be re-employed by Starz University may apply for open positions. Reinstatement is not guaranteed and will be subject to the university's hiring policies and the availability of suitable positions."
+      },
+      "Corrective Action and Problem solving Procedures": {
+        "page": 12,
+        "content": "The university is committed to providing a fair and consistent process for addressing employee performance or conduct issues. This includes a progressive disciplinary approach, starting with verbal warnings and escalating to written warnings, suspension, and ultimately termination, depending on the severity and frequency of the issue."
+      },
+      "Faculty and Staff Electronic Portal (E-Portal) Use Policy": {
+        "page": 12,
+        "content": "The Faculty and Staff Electronic Portal (E-Portal) is provided for official university business and communication. Employees are responsible for maintaining the confidentiality of their login credentials and for using the portal in accordance with university policies and guidelines."
+      },
+      "Examples of Misconduct": {
+        "page": 13,
+        "content": "Examples of misconduct that may lead to disciplinary action include, but are not limited to: insubordination, harassment, discrimination, theft, unauthorized use of university property, falsification of records, and violation of safety policies."
+      },
+      "Employee Problem-Solving Procedure": {
+        "page": 14,
+        "content": "Employees are encouraged to resolve workplace issues informally with their immediate supervisor. If a resolution cannot be reached, employees may escalate the issue to the next level of management or Human Resources."
+      },
+      "Supervisor Accessibility": {
+        "page": 14,
+        "content": "Supervisors are expected to maintain an open-door policy and be accessible to their employees for guidance, feedback, and addressing concerns. Regular communication and clear expectations are essential for a productive work environment."
+      },
+      "Additional Avenues": {
+        "page": 14,
+        "content": "In addition to direct communication with supervisors, employees may utilize other avenues for problem-solving, such as Human Resources, the Employee Assistance Program, or the university's grievance procedure."
+      },
+      "Professional Conduct": {
+        "page": 15,
+        "content": "All employees are expected to maintain a high standard of professional conduct, demonstrating respect, integrity, and ethical behavior in all interactions with students, colleagues, and the wider university community."
+      },
+      "Dress Code": {
+        "page": 15,
+        "content": "Employees are expected to dress in a manner appropriate for a professional educational environment. This includes maintaining a neat, clean, and well-groomed appearance. Specific departmental guidelines may apply."
+      },
+      "Male Appearance": {
+        "page": 16,
+        "content": "Male employees are expected to wear business casual or professional attire, including collared shirts, trousers, and closed-toe shoes. Jeans and t-shirts are generally not considered appropriate for professional settings."
+      },
+      "Female Appearance": {
+        "page": 16,
+        "content": "Female employees are expected to wear business casual or professional attire, including blouses, skirts, dresses, or trousers, and appropriate footwear. Revealing clothing or overly casual attire is not considered appropriate."
+      },
+      "Inappropriate Conduct and Anti-Harassment Policy": {
+        "page": 16,
+        "content": "Starz University is committed to providing a work and learning environment free from harassment and discrimination. Any form of inappropriate conduct, including verbal, physical, or visual harassment, is strictly prohibited."
+      },
+      "Prohibited Conduct Defined": {
+        "page": 17,
+        "content": "Prohibited conduct includes, but is not limited to: offensive jokes, slurs, epithets or name calling, physical assaults or threats, intimidation, ridicule or mockery, insults or put-downs, offensive objects or pictures, and interference with work performance."
+      },
+      "Sexual Harassment Defined": {
+        "page": 18,
+        "content": "Sexual harassment includes unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature when submission to or rejection of this conduct explicitly or implicitly affects an individual's employment, unreasonably interferes with an individual's work performance, or creates an intimidating, hostile, or offensive work environment."
+      },
+      "Persons Covered": {
+        "page": 18,
+        "content": "This policy applies to all employees, including faculty, staff, administrators, student employees, and volunteers. It also extends to interactions with students, vendors, and visitors to the university."
+      },
+      "Complaint Procedure": {
+        "page": 19,
+        "content": "Employees who believe they have been subjected to harassment or discrimination should report the incident immediately to their supervisor, Human Resources, or any university official. All complaints will be investigated promptly and thoroughly."
+      },
+      "Reporting Requirements of Supervisors or Department Heads": {
+        "page": 20,
+        "content": "Supervisors and department heads are required to report any complaints of harassment or discrimination that come to their attention to Human Resources immediately, even if the employee requests confidentiality. Failure to report may result in disciplinary action."
+      },
+      "Investigation and Response": {
+        "page": 20,
+        "content": "Upon receiving a complaint, Human Resources will conduct a prompt, thorough, and impartial investigation. Appropriate corrective action will be taken if the investigation confirms a violation of policy. The university will also take steps to prevent recurrence of any harassment."
+      },
+      "Files and Confidentiality": {
+        "page": 21,
+        "content": "All records related to harassment and discrimination complaints will be kept confidential to the extent possible, consistent with the need to conduct a thorough investigation and take appropriate corrective action."
+      },
+      "Non-Retaliation": {
+        "page": 21,
+        "content": "Starz University prohibits retaliation against any employee who reports harassment or discrimination, participates in an investigation, or opposes any practice forbidden by this policy. Any employee who engages in retaliation will be subject to disciplinary action."
+      },
+      "Implementation": {
+        "page": 21,
+        "content": "This policy will be implemented and enforced by Human Resources, in collaboration with university leadership and departments. Regular training and awareness programs will be conducted to ensure all employees understand their rights and responsibilities under this policy."
+      },
+      "Consensual Relations Policy": {
+        "page": 22,
+        "content": "Consensual romantic or sexual relationships between employees and students, or between supervisors and their direct reports, are strongly discouraged due to the potential for conflicts of interest, exploitation, and claims of harassment. Such relationships must be disclosed to Human Resources."
+      },
+      "Anti-Violence Policy": {
+        "page": 22,
+        "content": "Starz University is committed to providing a safe and secure environment for all employees, students, and visitors. Any acts or threats of violence, including physical assault, verbal threats, intimidation, or property damage, are strictly prohibited and will result in immediate disciplinary action, up to and including termination and legal prosecution."
+      },
+      "Drug and Alcohol Policy": {
+        "page": 23,
+        "content": "The unlawful manufacture, distribution, dispensation, possession, or use of controlled substances or alcohol on university premises or as part of any university activity is strictly prohibited. Employees found in violation of this policy will be subject to disciplinary action, up to and including termination."
+      },
+      "Statement of Responsibility for the Security and Confidentiality of Data and Data Networks": {
+        "page": 25,
+        "content": "All employees are responsible for protecting the security and confidentiality of university data and data networks. This includes adhering to data privacy policies, using strong passwords, and reporting any suspected security breaches or unauthorized access."
+      },
+      "Health and Safety": {
+        "page": 25,
+        "content": "Starz University is committed to providing a safe and healthy work environment for all employees. This includes adherence to all applicable health and safety regulations, providing necessary safety training, and maintaining safe facilities and equipment."
+      },
+      "Emergency Evacuation Procedures": {
+        "page": 25,
+        "content": "In the event of an emergency requiring evacuation, employees must follow established evacuation procedures, including knowing evacuation routes, assembly points, and cooperating with emergency personnel. Regular drills will be conducted to ensure preparedness."
+      },
+      "Accident or Injury": {
+        "page": 25,
+        "content": "All work-related accidents or injuries, no matter how minor, must be reported immediately to the supervisor and Human Resources. Prompt reporting ensures proper medical attention and compliance with safety regulations."
+      },
+      "Report of Accidents": {
+        "page": 26,
+        "content": "A formal accident report must be completed for all work-related accidents or injuries. This report helps the university investigate the incident, identify root causes, and implement corrective measures to prevent future occurrences."
+      },
+      "University Keys": {
+        "page": 26,
+        "content": "University keys are issued to authorized personnel for official use only. Employees are responsible for the safekeeping of their assigned keys and must not duplicate them or lend them to unauthorized individuals. Lost or stolen keys must be reported immediately."
+      },
+      "Smoking Policy": {
+        "page": 26,
+        "content": "Starz University is a smoke-free campus. Smoking, including the use of e-cigarettes and vaping devices, is prohibited in all university buildings, vehicles, and within a specified distance from building entrances."
+      },
+      "Blood borne Pathogens": {
+        "page": 27,
+        "content": "Employees who may be exposed to bloodborne pathogens as part of their job duties will receive training and appropriate personal protective equipment to minimize the risk of exposure. Universal precautions must be followed at all times."
+      },
+      "Solicitation Policy": {
+        "page": 27,
+        "content": "Solicitation by employees or external parties is generally prohibited on university premises during working hours to avoid disruption of the work environment. Exceptions may be granted for approved university-sponsored activities."
+      }
+    }
+  }
+}

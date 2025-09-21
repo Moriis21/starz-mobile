@@ -1,0 +1,1001 @@
+{
+  "bit_college": {
+    "college": "BIT College",
+    "description": "Bachelor of Information Technology - Complete 4-year program",
+    "programs": {
+      "BIT": {
+        "name": "BIT",
+        "total_credits": 0,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          }
+        }
+      },
+      "TELECOM": {
+        "name": "TELECOM",
+        "total_credits": 113,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 20,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 110",
+                  "title": "Calculus lI",
+                  "credits": 4
+                },
+                {
+                  "code": "TENG 107",
+                  "title": "Computer Aided Design",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 103",
+                  "title": "Electronics II",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 200",
+                  "title": "Circuit",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concept Hardware",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "MAT 202",
+                  "title": "Differential Equation and Reliability",
+                  "credits": 4
+                },
+                {
+                  "code": "ENGR 286",
+                  "title": "Introduction to Database",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 203",
+                  "title": "Field Theory",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 201",
+                  "title": "Digital Electronics",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "TENG 317",
+                  "title": "Computer Architecture",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 204",
+                  "title": "Introduction to Microprocessor",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 310",
+                  "title": "Satellite & Mobile Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 307",
+                  "title": "Communication Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 316",
+                  "title": "Radio and Television",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Method",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 20,
+              "courses": [
+                {
+                  "code": "MAT 304",
+                  "title": "Probability and Stat for Engineers",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 309",
+                  "title": "Java Programming",
+                  "credits": 4
+                },
+                {
+                  "code": "TENG 307",
+                  "title": "Wireless Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 309",
+                  "title": "Introduction to Data Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 325",
+                  "title": "Power Electronics",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 311",
+                  "title": "Control Engineering",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 20,
+              "courses": [
+                {
+                  "code": "TENG 426",
+                  "title": "Optoelectronics",
+                  "credits": 3
+                },
+                {
+                  "code": "MAT 401",
+                  "title": "Advanced Diff Equation",
+                  "credits": 4
+                },
+                {
+                  "code": "TENG 436",
+                  "title": "Uwave Eng & Ant & Propagation",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 411",
+                  "title": "Computer Networks (MCITP)",
+                  "credits": 4
+                },
+                {
+                  "code": "TENG 438",
+                  "title": "Optical Communication Net",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 483",
+                  "title": "Technical Report Writing",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 427",
+                  "title": "Optical Communication Lab",
+                  "credits": 0
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "TENG 410",
+                  "title": "Engineering Project",
+                  "credits": 4
+                },
+                {
+                  "code": "TENG 411",
+                  "title": "Engineering Management",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 415",
+                  "title": "Switching Engineering in Comm",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 417",
+                  "title": "Industry Experience",
+                  "credits": 0
+                },
+                {
+                  "code": "MIS 478",
+                  "title": "Management Information System",
+                  "credits": 3
+                },
+                {
+                  "code": "TENG 439",
+                  "title": "Engineering Project Management",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "MIS": {
+        "name": "MIS",
+        "total_credits": 112,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 20,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Calculus for Business Students",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concepts & Hardware",
+                  "credits": 4
+                },
+                {
+                  "code": "ECON 200",
+                  "title": "Principles of Economics I",
+                  "credits": 3
+                },
+                {
+                  "code": "LAW 221",
+                  "title": "Business Law I",
+                  "credits": 3
+                },
+                {
+                  "code": "MKTG 201",
+                  "title": "Consumer Behavior",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 204",
+                  "title": "Principles of Economics II",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 202",
+                  "title": "Introduction to Finance",
+                  "credits": 3
+                },
+                {
+                  "code": "MKTG 200",
+                  "title": "Customer Service",
+                  "credits": 3
+                },
+                {
+                  "code": "SCM 300",
+                  "title": "Introduction to Supply Chain Management",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "MGMT 331",
+                  "title": "Principles of Management",
+                  "credits": 3
+                },
+                {
+                  "code": "BIS 309",
+                  "title": "Organization Behavior",
+                  "credits": 3
+                },
+                {
+                  "code": "MKTG 307",
+                  "title": "Marketing Principles",
+                  "credits": 3
+                },
+                {
+                  "code": "LAW 305",
+                  "title": "Business Law II",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 307",
+                  "title": "Communication System/labs",
+                  "credits": 4
+                },
+                {
+                  "code": "ECON 313",
+                  "title": "Business & Economic Statistics I",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "HRM 306",
+                  "title": "Management of Human Resources",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "ATM 314",
+                  "title": "Online Banking & Electronic Payment",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGR 286",
+                  "title": "Introduction to Database",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 343",
+                  "title": "Enterprise Resource Planning (ERP)",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 361",
+                  "title": "Entrepreneurship",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "INFO 355",
+                  "title": "E-Information Technology (E-commerce I)",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 403",
+                  "title": "Taxation",
+                  "credits": 3
+                },
+                {
+                  "code": "ODB 405",
+                  "title": "Information Security for E-business",
+                  "credits": 3
+                },
+                {
+                  "code": "BIS 466",
+                  "title": "Business Strategy",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGR 368",
+                  "title": "Database II",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 401",
+                  "title": "Marketing Management",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "INFO 491",
+                  "title": "Capstone /Research Final Project",
+                  "credits": 4
+                },
+                {
+                  "code": "MKTG 406",
+                  "title": "Marketing Strategy",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 478",
+                  "title": "Management Information System",
+                  "credits": 3
+                },
+                {
+                  "code": "LAW 404",
+                  "title": "Cyber Security",
+                  "credits": 3
+                },
+                {
+                  "code": "BIS 450",
+                  "title": "Developing Business Portfolio",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 421",
+                  "title": "Internship",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "COMM": {
+        "name": "COMM",
+        "total_credits": 107,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 0,
+              "courses": []
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "GEOG 101",
+                  "title": "Global Issues in Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 220",
+                  "title": "Radio and Television Industries",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 210",
+                  "title": "Media Writing",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concepts and Hardware",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 234",
+                  "title": "Film as a Medium",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 222",
+                  "title": "Ethics and Media Law",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 202",
+                  "title": "Acting 1",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 225",
+                  "title": "Audio and Radio Production",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 227",
+                  "title": "Television and Studio Production",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "COMM 339",
+                  "title": "Film Making",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 350",
+                  "title": "Journalism",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 226",
+                  "title": "Video Production and Editing",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 353",
+                  "title": "Advance Audio Production",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 351",
+                  "title": "Radio Production Workshop",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 364",
+                  "title": "Voice and Speech Production",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "COMM 310",
+                  "title": "Announcing",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 349",
+                  "title": "Communication Research Method",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 320",
+                  "title": "Media Criticism",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 363",
+                  "title": "Public Speaking",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 370",
+                  "title": "Acting II",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 331",
+                  "title": "Film Making II",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 18,
+              "courses": [
+                {
+                  "code": "COMM 425",
+                  "title": "Television Workshop",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 420",
+                  "title": "Broadcast Management",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 431",
+                  "title": "Screen Writing",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 436",
+                  "title": "Writing for Radio and Television",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 416",
+                  "title": "Documentary and Non Fiction",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 411",
+                  "title": "Radio News",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "COMM 452",
+                  "title": "Advance Broadcasting Journalism",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 424",
+                  "title": "TV News",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 491",
+                  "title": "Capstone/ Final Project",
+                  "credits": 4
+                },
+                {
+                  "code": "COMM 432",
+                  "title": "Film Making III",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 421",
+                  "title": "Internship",
+                  "credits": 6
+                }
+              ]
+            }
+          }
+        }
+      },
+      "DATABASE": {
+        "name": "DATABASE",
+        "total_credits": 134,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 101",
+                  "title": "Computer Introduction",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "PHYS 101",
+                  "title": "Applied Physics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Math for Decision-Making",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "GEOG 101",
+                  "title": "Global Issues in Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 277",
+                  "title": "Introduction to Digital Media I",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 32,
+              "courses": [
+                {
+                  "code": "ART 205",
+                  "title": "Digital Media II",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "INF0 278",
+                  "title": "Operating Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concepts & Hardware",
+                  "credits": 4
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Calculus for Business Students",
+                  "credits": 4
+                },
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGR 286",
+                  "title": "Introduction to Database",
+                  "credits": 3
+                },
+                {
+                  "code": "ENT 266",
+                  "title": "Leadership",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 36,
+              "courses": [
+                {
+                  "code": "AMS-301",
+                  "title": "Advanced Database Management Systems/(Database II)",
+                  "credits": 3
+                },
+                {
+                  "code": "PPJ-302",
+                  "title": "Object-Oriented Programming with Python & Java",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 306",
+                  "title": "Web Design & Management Application",
+                  "credits": 3
+                },
+                {
+                  "code": "OSS-303",
+                  "title": "DB Programming: Oracle PL/SQL Server (Visual Studio)",
+                  "credits": 4
+                },
+                {
+                  "code": "SSA-304",
+                  "title": "Structured System Analysis and Design",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 341",
+                  "title": "Legal and Ethical Issues in Data Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-305",
+                  "title": "Data Architecture and Metadata Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 344",
+                  "title": "IT & Risk Management",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 355",
+                  "title": "e-Information Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "DDS-356",
+                  "title": "Big Data & Data Science",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 0,
+              "courses": []
+            },
+            "Semester 2": {
+              "total_credits": 33,
+              "courses": [
+                {
+                  "code": "CDV-464",
+                  "title": "Cloud-Based Data Distribution & Virtualization",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO-465",
+                  "title": "Network & Database Security",
+                  "credits": 3
+                },
+                {
+                  "code": "APM- 466",
+                  "title": "Data Analytics in Project Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-467",
+                  "title": "Data Warehousing Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 483",
+                  "title": "Technical Report Writing",
+                  "credits": 3
+                },
+                {
+                  "code": "SDA-468",
+                  "title": "SQL/Oracle Database Administration (MCSA/Oracle OCA)",
+                  "credits": 4
+                },
+                {
+                  "code": "MIIS 478",
+                  "title": "Management Information System & Information System (IS)",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 491",
+                  "title": "IT Capstone/Research Final Project",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 421",
+                  "title": "Internship",
+                  "credits": 6
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}

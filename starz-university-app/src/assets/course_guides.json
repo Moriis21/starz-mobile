@@ -1,0 +1,2057 @@
+{
+  "bit_college": {
+    "college": "BIT College",
+    "description": "Bachelor of Information Technology - Complete 4-year program",
+    "programs": {
+      "BIT": {
+        "name": "BIT",
+        "total_credits": 130,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 101",
+                  "title": "Computer Introduction",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Math for Decision-Making",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "GEOG 101",
+                  "title": "Global Issues in Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 277",
+                  "title": "Introduction to Digital Media I",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ART 205",
+                  "title": "Digital Media II",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "INF0 278",
+                  "title": "Operating Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concepts & Hardware",
+                  "credits": 4
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Calculus for Business Students",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGR 286",
+                  "title": "Introduction to Database",
+                  "credits": 3
+                },
+                {
+                  "code": "ENT 266",
+                  "title": "Leadership",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "AMS-301",
+                  "title": "Advanced Database Management Systems/(Database II)",
+                  "credits": 3
+                },
+                {
+                  "code": "PPJ-302",
+                  "title": "Object-Oriented Programming with Python & Java",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 306",
+                  "title": "Web Design & Management Application",
+                  "credits": 3
+                },
+                {
+                  "code": "OSS-303",
+                  "title": "DB Programming: Oracle PL/SQL Server (Visual Studio)",
+                  "credits": 4
+                },
+                {
+                  "code": "SSA-304",
+                  "title": "Structured System Analysis and Design",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "INFO 341",
+                  "title": "Legal and Ethical Issues in Data Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-305",
+                  "title": "Data Architecture and Metadata Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 344",
+                  "title": "IT & Risk Management",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 355",
+                  "title": "e-Information Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "DDS-356",
+                  "title": "Big Data & Data Science",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CDV-464",
+                  "title": "Cloud-Based Data Distribution & Virtualization",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO-465",
+                  "title": "Network & Database Security",
+                  "credits": 3
+                },
+                {
+                  "code": "APM- 466",
+                  "title": "Data Analytics in Project Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-467",
+                  "title": "Data Warehousing Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 483",
+                  "title": "Technical Report Writing",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "SDA-468",
+                  "title": "SQL/Oracle Database Administration (MCSA/Oracle OCA)",
+                  "credits": 4
+                },
+                {
+                  "code": "MIIS 478",
+                  "title": "Management Information System & Information System (IS)",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 491",
+                  "title": "IT Capstone/Research Final Project",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 421",
+                  "title": "Internship",
+                  "credits": 6
+                }
+              ]
+            }
+          }
+        }
+      },
+      "TELECOM": {
+        "name": "TELECOM",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "PHYS 101",
+                  "title": "Applied Physics",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 101",
+                  "title": "Introduction to Telecommunications",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Calculus I",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 102",
+                  "title": "Telecommunication Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "ELEC 101",
+                  "title": "Basic Electronics",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Linear Algebra",
+                  "credits": 4
+                },
+                {
+                  "code": "TEL 201",
+                  "title": "Digital Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "ELEC 201",
+                  "title": "Circuit Analysis",
+                  "credits": 3
+                },
+                {
+                  "code": "PHYS 201",
+                  "title": "Electromagnetism",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 202",
+                  "title": "Wireless Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "ELEC 202",
+                  "title": "Analog Electronics",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "TEL 301",
+                  "title": "Optical Fiber Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 302",
+                  "title": "Satellite Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 303",
+                  "title": "Mobile Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "ELEC 301",
+                  "title": "Digital Signal Processing",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "TEL 304",
+                  "title": "Network Planning & Design",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 305",
+                  "title": "Telecommunication Networks",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 306",
+                  "title": "Broadband Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "IT 301",
+                  "title": "Information Systems",
+                  "credits": 4
+                },
+                {
+                  "code": "ELEC 302",
+                  "title": "Control Systems",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "TEL 401",
+                  "title": "Advanced Wireless Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 402",
+                  "title": "Network Security in Telecom",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 403",
+                  "title": "VoIP and Multimedia Communications",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 404",
+                  "title": "Telecommunication Regulations & Policy",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "TEL 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "TEL 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "TEL 405",
+                  "title": "Optical Network Design",
+                  "credits": 3
+                },
+                {
+                  "code": "TEL 406",
+                  "title": "Next Generation Networks",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "MIS": {
+        "name": "MIS",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 101",
+                  "title": "Computer Introduction",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 101",
+                  "title": "Introduction to Business",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Calculus I",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 101",
+                  "title": "Principles of Accounting",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 101",
+                  "title": "Microeconomics",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Statistics for Business",
+                  "credits": 4
+                },
+                {
+                  "code": "MIS 201",
+                  "title": "Management Information Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "CS 201",
+                  "title": "Programming Fundamentals",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 202",
+                  "title": "Macroeconomics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 202",
+                  "title": "Managerial Accounting",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 202",
+                  "title": "Database Management Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "MIS 301",
+                  "title": "Systems Analysis and Design",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 302",
+                  "title": "Business Intelligence",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 303",
+                  "title": "IT Project Management",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 301",
+                  "title": "Financial Management",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "MIS 304",
+                  "title": "E-commerce and Digital Business",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 305",
+                  "title": "Information Security Management",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 306",
+                  "title": "Enterprise Resource Planning",
+                  "credits": 3
+                },
+                {
+                  "code": "MKT 301",
+                  "title": "Marketing Principles",
+                  "credits": 3
+                },
+                {
+                  "code": "HRM 301",
+                  "title": "Human Resource Management",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "MIS 401",
+                  "title": "IT Strategy and Governance",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 402",
+                  "title": "Data Warehousing and Mining",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 403",
+                  "title": "Cloud Computing for Business",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 404",
+                  "title": "Decision Support Systems",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "MIS 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "MIS 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "MIS 405",
+                  "title": "IT Audit and Control",
+                  "credits": 3
+                },
+                {
+                  "code": "MIS 406",
+                  "title": "Business Process Management",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "COMM": {
+        "name": "COMM",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 101",
+                  "title": "Introduction to Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "ART 101",
+                  "title": "Introduction to Arts",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Calculus I",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 102",
+                  "title": "Media and Society",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 102",
+                  "title": "Visual Communication",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 201",
+                  "title": "Interpersonal Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 202",
+                  "title": "Public Speaking",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 203",
+                  "title": "Journalism Fundamentals",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 201",
+                  "title": "Graphic Design Basics",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 204",
+                  "title": "Broadcast Media Production",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 205",
+                  "title": "Digital Photography",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 206",
+                  "title": "Media Ethics and Law",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "COMM 301",
+                  "title": "Advanced Journalism",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 302",
+                  "title": "Video Production",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 303",
+                  "title": "Social Media Marketing",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "IT 301",
+                  "title": "Information Systems for Media",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "COMM 304",
+                  "title": "Public Relations",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 305",
+                  "title": "Advertising Principles",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 306",
+                  "title": "Cross-Cultural Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 307",
+                  "title": "Documentary Filmmaking",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 301",
+                  "title": "Advanced Graphic Design",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "COMM 401",
+                  "title": "Media Management",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 402",
+                  "title": "Crisis Communication",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 403",
+                  "title": "Digital Storytelling",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 404",
+                  "title": "International Communication",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "COMM 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "COMM 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "COMM 405",
+                  "title": "Media Research",
+                  "credits": 3
+                },
+                {
+                  "code": "COMM 406",
+                  "title": "Advanced Video Production",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "DATABASE": {
+        "name": "DATABASE",
+        "total_credits": 101,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation - STEP",
+                  "credits": 1
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 101",
+                  "title": "Computer Introduction",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "PHYS 101",
+                  "title": "Applied Physics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Math for Decision-Making",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "GEOG 101",
+                  "title": "Global Issues in Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 277",
+                  "title": "Introduction to Digital Media I",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ART 205",
+                  "title": "Digital Media II",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "INF0 278",
+                  "title": "Operating Systems",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 201",
+                  "title": "Computer Concepts & Hardware",
+                  "credits": 4
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Calculus for Business Students",
+                  "credits": 4
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "NET 207",
+                  "title": "Introduction to Networking",
+                  "credits": 3
+                },
+                {
+                  "code": "BEN 201",
+                  "title": "Ethics / Morals and Customer Relation",
+                  "credits": 3
+                },
+                {
+                  "code": "ENGR 286",
+                  "title": "Introduction to Database",
+                  "credits": 3
+                },
+                {
+                  "code": "ENT 266",
+                  "title": "Leadership",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 19,
+              "courses": [
+                {
+                  "code": "AMS-301",
+                  "title": "Advanced Database Management Systems/(Database II)",
+                  "credits": 3
+                },
+                {
+                  "code": "PPJ-302",
+                  "title": "Object-Oriented Programming with Python & Java",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 306",
+                  "title": "Web Design & Management Application",
+                  "credits": 3
+                },
+                {
+                  "code": "OSS-303",
+                  "title": "DB Programming: Oracle PL/SQL Server (Visual Studio)",
+                  "credits": 4
+                },
+                {
+                  "code": "SSA-304",
+                  "title": "Structured System Analysis and Design",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "INFO 341",
+                  "title": "Legal and Ethical Issues in Data Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-305",
+                  "title": "Data Architecture and Metadata Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 344",
+                  "title": "IT & Risk Management",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 355",
+                  "title": "e-Information Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "DDS-356",
+                  "title": "Big Data & Data Science",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CDV-464",
+                  "title": "Cloud-Based Data Distribution & Virtualization",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO-465",
+                  "title": "Network & Database Security",
+                  "credits": 3
+                },
+                {
+                  "code": "APM- 466",
+                  "title": "Data Analytics in Project Management",
+                  "credits": 3
+                },
+                {
+                  "code": "AMD-467",
+                  "title": "Data Warehousing Design",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 483",
+                  "title": "Technical Report Writing",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "SDA-468",
+                  "title": "SQL/Oracle Database Administration (MCSA/Oracle OCA)",
+                  "credits": 4
+                },
+                {
+                  "code": "MIIS 478",
+                  "title": "Management Information System & Information System (IS)",
+                  "credits": 3
+                },
+                {
+                  "code": "INFO 491",
+                  "title": "IT Capstone/Research Final Project",
+                  "credits": 4
+                },
+                {
+                  "code": "INFO 421",
+                  "title": "Internship",
+                  "credits": 6
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "business_college": {
+    "college": "Business College",
+    "description": "Business Administration and Management programs",
+    "programs": {
+      "PROCUREMENT_LOGISTICS": {
+        "name": "Procurement and Logistics Management",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation",
+                  "credits": 1
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Business Mathematics I",
+                  "credits": 4
+                },
+                {
+                  "code": "MGMT 101",
+                  "title": "Introduction to Management",
+                  "credits": 3
+                },
+                {
+                  "code": "PROC 101",
+                  "title": "Introduction to Procurement",
+                  "credits": 3
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Business Mathematics II",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "GEOG 101",
+                  "title": "Global Issues in Technology",
+                  "credits": 3
+                },
+                {
+                  "code": "ART 277",
+                  "title": "Introduction to Digital Media I",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Statistics for Business",
+                  "credits": 4
+                },
+                {
+                  "code": "MGMT 201",
+                  "title": "Principles of Management",
+                  "credits": 3
+                },
+                {
+                  "code": "PROC 201",
+                  "title": "Supply Chain Management",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 201",
+                  "title": "Microeconomics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 201",
+                  "title": "Principles of Accounting I",
+                  "credits": 3
+                },
+                {
+                  "code": "PROC 202",
+                  "title": "Procurement Law and Ethics",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 202",
+                  "title": "Macroeconomics",
+                  "credits": 3
+                },
+                {
+                  "code": "BUS 201",
+                  "title": "Business Communication",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "PROC 301",
+                  "title": "Strategic Procurement",
+                  "credits": 3
+                },
+                {
+                  "code": "LOG 301",
+                  "title": "Logistics Management",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 301",
+                  "title": "Operations Management",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 301",
+                  "title": "Financial Management",
+                  "credits": 4
+                },
+                {
+                  "code": "MKT 301",
+                  "title": "Marketing Principles",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "PROC 302",
+                  "title": "Contract Management",
+                  "credits": 3
+                },
+                {
+                  "code": "LOG 302",
+                  "title": "Transportation Management",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 302",
+                  "title": "Project Management",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "IT 301",
+                  "title": "Information Systems",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "PROC 401",
+                  "title": "Global Procurement",
+                  "credits": 3
+                },
+                {
+                  "code": "LOG 401",
+                  "title": "Warehouse Management",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 401",
+                  "title": "Strategic Management",
+                  "credits": 3
+                },
+                {
+                  "code": "PROC 402",
+                  "title": "Procurement Analytics",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "PROC 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "PROC 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "LOG 402",
+                  "title": "Supply Chain Analytics",
+                  "credits": 3
+                },
+                {
+                  "code": "MGMT 402",
+                  "title": "Leadership",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      },
+      "BANKING_FINANCE": {
+        "name": "Banking and Finance",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation",
+                  "credits": 1
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Business Mathematics I",
+                  "credits": 4
+                },
+                {
+                  "code": "ECON 101",
+                  "title": "Introduction to Economics",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 101",
+                  "title": "Introduction to Finance",
+                  "credits": 3
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Business Mathematics II",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 101",
+                  "title": "Principles of Accounting",
+                  "credits": 3
+                },
+                {
+                  "code": "BUS 101",
+                  "title": "Introduction to Business",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Statistics for Business",
+                  "credits": 4
+                },
+                {
+                  "code": "FIN 201",
+                  "title": "Corporate Finance",
+                  "credits": 3
+                },
+                {
+                  "code": "BANK 201",
+                  "title": "Banking Principles",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 201",
+                  "title": "Microeconomics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 201",
+                  "title": "Intermediate Accounting",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 202",
+                  "title": "Investment Analysis",
+                  "credits": 3
+                },
+                {
+                  "code": "BANK 202",
+                  "title": "Commercial Banking",
+                  "credits": 3
+                },
+                {
+                  "code": "ECON 202",
+                  "title": "Macroeconomics",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "FIN 301",
+                  "title": "Financial Markets",
+                  "credits": 3
+                },
+                {
+                  "code": "BANK 301",
+                  "title": "International Banking",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 302",
+                  "title": "Portfolio Management",
+                  "credits": 3
+                },
+                {
+                  "code": "ACCT 301",
+                  "title": "Cost Accounting",
+                  "credits": 4
+                },
+                {
+                  "code": "LAW 301",
+                  "title": "Business Law",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "FIN 303",
+                  "title": "Risk Management",
+                  "credits": 3
+                },
+                {
+                  "code": "BANK 302",
+                  "title": "Central Banking",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 304",
+                  "title": "Financial Planning",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "IT 301",
+                  "title": "Financial Information Systems",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "FIN 401",
+                  "title": "Advanced Corporate Finance",
+                  "credits": 3
+                },
+                {
+                  "code": "BANK 401",
+                  "title": "Bank Management",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 402",
+                  "title": "Derivatives and Options",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 403",
+                  "title": "Financial Analysis",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "FIN 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "FIN 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "BANK 402",
+                  "title": "Banking Regulations",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN 404",
+                  "title": "Financial Modeling",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "cybersecurity_college": {
+    "college": "Cybersecurity College",
+    "description": "Cybersecurity and Information Security programs",
+    "programs": {
+      "CYBERSECURITY": {
+        "name": "Bachelor of Science in Cybersecurity",
+        "total_credits": 128,
+        "years": {
+          "Year 1": {
+            "Semester 1": {
+              "total_credits": 17,
+              "courses": [
+                {
+                  "code": "ENGL 101",
+                  "title": "Freshman English I",
+                  "credits": 3
+                },
+                {
+                  "code": "FO 100",
+                  "title": "Freshman Orientation",
+                  "credits": 1
+                },
+                {
+                  "code": "MATH 107",
+                  "title": "Pre-Calculus",
+                  "credits": 4
+                },
+                {
+                  "code": "CS 101",
+                  "title": "Introduction to Computer Science",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 101",
+                  "title": "Introduction to Cybersecurity",
+                  "credits": 3
+                },
+                {
+                  "code": "FREN 101",
+                  "title": "French Grammar I",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 102",
+                  "title": "Freshman English II",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 108",
+                  "title": "Calculus I",
+                  "credits": 4
+                },
+                {
+                  "code": "FREN 102",
+                  "title": "French Grammar II",
+                  "credits": 3
+                },
+                {
+                  "code": "CS 102",
+                  "title": "Programming Fundamentals",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 102",
+                  "title": "Network Fundamentals",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 2": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "ENGL 201",
+                  "title": "Sophomore English I",
+                  "credits": 3
+                },
+                {
+                  "code": "MATH 203",
+                  "title": "Discrete Mathematics",
+                  "credits": 4
+                },
+                {
+                  "code": "CS 201",
+                  "title": "Data Structures",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 201",
+                  "title": "Network Security",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 202",
+                  "title": "Cryptography",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 15,
+              "courses": [
+                {
+                  "code": "ENGL 202",
+                  "title": "Sophomore English II",
+                  "credits": 3
+                },
+                {
+                  "code": "CS 202",
+                  "title": "Algorithms",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 203",
+                  "title": "Ethical Hacking",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 204",
+                  "title": "Digital Forensics",
+                  "credits": 3
+                },
+                {
+                  "code": "STAT 201",
+                  "title": "Statistics",
+                  "credits": 3
+                }
+              ]
+            }
+          },
+          "Year 3": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CYB 301",
+                  "title": "Incident Response",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 302",
+                  "title": "Malware Analysis",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 303",
+                  "title": "Penetration Testing",
+                  "credits": 3
+                },
+                {
+                  "code": "CS 301",
+                  "title": "Database Security",
+                  "credits": 4
+                },
+                {
+                  "code": "CYB 304",
+                  "title": "Risk Assessment",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CYB 305",
+                  "title": "Security Architecture",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 306",
+                  "title": "Cloud Security",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 307",
+                  "title": "Mobile Security",
+                  "credits": 3
+                },
+                {
+                  "code": "RSR 300",
+                  "title": "Research Methods",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 308",
+                  "title": "Security Governance",
+                  "credits": 4
+                }
+              ]
+            }
+          },
+          "Year 4": {
+            "Semester 1": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CYB 401",
+                  "title": "Advanced Threat Detection",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 402",
+                  "title": "Security Operations Center",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 403",
+                  "title": "Cyber Law and Policy",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 404",
+                  "title": "Security Metrics",
+                  "credits": 4
+                },
+                {
+                  "code": "BUS 401",
+                  "title": "Business Ethics",
+                  "credits": 3
+                }
+              ]
+            },
+            "Semester 2": {
+              "total_credits": 16,
+              "courses": [
+                {
+                  "code": "CYB 491",
+                  "title": "Capstone Project",
+                  "credits": 4
+                },
+                {
+                  "code": "CYB 421",
+                  "title": "Internship",
+                  "credits": 6
+                },
+                {
+                  "code": "CYB 405",
+                  "title": "Emerging Threats",
+                  "credits": 3
+                },
+                {
+                  "code": "CYB 406",
+                  "title": "Security Leadership",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
