@@ -6,7 +6,7 @@ Live application: [https://starz-mobile.vercel.app](https://starz-mobile.vercel.
 
 ## Status
 
-Application prototype
+Mobile focused web application
 
 ## Key capabilities
 
@@ -44,13 +44,13 @@ pnpm run dev
 
 ## Configuration
 
-No safe environment template is currently included. Review the integration modules before deployment and document the required variables in an `.env.example` file. Keep all real credentials outside version control.
+External service credentials must be supplied through local or deployment environment variables. Add a sanitized `.env.example` before onboarding additional developers. Keep all real credentials outside version control.
 
 ## Project structure
 
 | Path | Purpose |
 | --- | --- |
-| `starz-university-app/` | Project files |
+| `starz-university-app/` | STARZ University application package |
 
 ## Security
 
